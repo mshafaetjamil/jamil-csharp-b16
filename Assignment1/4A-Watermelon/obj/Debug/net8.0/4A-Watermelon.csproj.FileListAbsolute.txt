@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\bin\Debug\net8.0\4A-Watermelon.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\bin\Debug\net8.0\4A-Watermelon.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\bin\Debug\net8.0\4A-Watermelon.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\bin\Debug\net8.0\4A-Watermelon.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\bin\Debug\net8.0\4A-Watermelon.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\refint\4A-Watermelon.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\4A-Watermelon.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\4A-Watermelon\obj\Debug\net8.0\ref\4A-Watermelon.dll
