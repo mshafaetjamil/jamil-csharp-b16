@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\bin\Debug\net8.0\282A-Bit++.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\bin\Debug\net8.0\282A-Bit++.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\bin\Debug\net8.0\282A-Bit++.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\bin\Debug\net8.0\282A-Bit++.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\bin\Debug\net8.0\282A-Bit++.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\refint\282A-Bit++.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\282A-Bit++.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\282A-Bit++\obj\Debug\net8.0\ref\282A-Bit++.dll

@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\bin\Debug\net8.0\236A-Boy or Girl.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\bin\Debug\net8.0\236A-Boy or Girl.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\bin\Debug\net8.0\236A-Boy or Girl.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\bin\Debug\net8.0\236A-Boy or Girl.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\bin\Debug\net8.0\236A-Boy or Girl.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\refint\236A-Boy or Girl.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\236A-Boy or Girl.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\236A-Boy or Girl\obj\Debug\net8.0\ref\236A-Boy or Girl.dll

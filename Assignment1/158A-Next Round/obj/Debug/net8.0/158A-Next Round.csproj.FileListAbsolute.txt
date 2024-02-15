@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\bin\Debug\net8.0\158A-Next Round.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\bin\Debug\net8.0\158A-Next Round.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\bin\Debug\net8.0\158A-Next Round.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\bin\Debug\net8.0\158A-Next Round.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\bin\Debug\net8.0\158A-Next Round.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\refint\158A-Next Round.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\158A-Next Round.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\158A-Next Round\obj\Debug\net8.0\ref\158A-Next Round.dll

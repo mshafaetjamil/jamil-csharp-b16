@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "158A-Next Round/1.0.0": {
+        "runtime": {
+          "158A-Next Round.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "158A-Next Round/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
