@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("236A-Boy or Girl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6571803fd27ccde77eeb5d59ae53366051c4f340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bbbaf5441916c8138a5cfed92704b935fd9d0dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("236A-Boy or Girl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("236A-Boy or Girl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
