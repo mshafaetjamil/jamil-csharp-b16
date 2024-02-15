@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\bin\Debug\net8.0\231A-Team.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\bin\Debug\net8.0\231A-Team.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\bin\Debug\net8.0\231A-Team.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\bin\Debug\net8.0\231A-Team.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\bin\Debug\net8.0\231A-Team.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\refint\231A-Team.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\231A-Team.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\231A-Team\obj\Debug\net8.0\ref\231A-Team.dll
