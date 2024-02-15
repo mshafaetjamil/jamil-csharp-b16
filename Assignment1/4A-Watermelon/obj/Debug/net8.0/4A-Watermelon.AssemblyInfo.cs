@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4A-Watermelon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d84e962db4f48deacb4b17d8bf2a2d43adfaee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66f5472b386b46a5f2349c01c509d26cbdcd08b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("4A-Watermelon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4A-Watermelon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

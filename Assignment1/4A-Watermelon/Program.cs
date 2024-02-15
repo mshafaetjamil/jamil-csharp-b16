@@ -8,7 +8,7 @@
 
 static string CanDivideWatermelon(int w)
 {
-    if (w < 2 || w % 2 != 0)
+    if (w != 4 && (w < 4 || w % 2 != 0))
         return "NO";
     else return "YES";
 
