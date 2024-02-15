@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\bin\Debug\net8.0\71A_Way Too Long Words.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\bin\Debug\net8.0\71A_Way Too Long Words.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\bin\Debug\net8.0\71A_Way Too Long Words.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\bin\Debug\net8.0\71A_Way Too Long Words.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\bin\Debug\net8.0\71A_Way Too Long Words.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\refint\71A_Way Too Long Words.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\71A_Way Too Long Words.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\71A_Way Too Long Words\obj\Debug\net8.0\ref\71A_Way Too Long Words.dll
