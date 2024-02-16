@@ -1,5 +1,4 @@
 ﻿{
-    Console.WriteLine("Enter the dimensions of the Board");
 
     string[] dimensions = Console.ReadLine().Split();
 
