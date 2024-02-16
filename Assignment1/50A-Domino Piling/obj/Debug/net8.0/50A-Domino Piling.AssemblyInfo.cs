@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("50A-Domino Piling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57af171533b40886b8e0058c60eef8e9ecd9b82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b70baf6fe03ffdf8d883aacb5aacaccc8cc98e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("50A-Domino Piling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("50A-Domino Piling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

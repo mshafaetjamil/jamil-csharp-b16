@@ -16,8 +16,6 @@
 
     int maxDominos = totalSquare / 2;
 
-
-    string message = $"Maximal Number of Dominos that will fit is {maxDominos}";
-    Console.WriteLine(message);
+    Console.WriteLine(maxDominos);
 
 }
