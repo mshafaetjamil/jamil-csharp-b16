@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4A-Watermelon", "4A-Waterme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231A-Team", "231A-Team\231A-Team.csproj", "{172EBEDF-FAAA-43BB-9EF7-47332A25E8D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1A-Theatre Square", "1A-Theatre Square\1A-Theatre Square.csproj", "{631106A2-C92D-4737-B9C6-EFB2F99F33B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1A-Theatre Square", "1A-Theatre Square\1A-Theatre Square.csproj", "{631106A2-C92D-4737-B9C6-EFB2F99F33B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "158A-Next Round", "158A-Next Round\158A-Next Round.csproj", "{51D78EF9-8E03-4B2D-A099-D9FCB695BA1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "158A-Next Round", "158A-Next Round\158A-Next Round.csproj", "{51D78EF9-8E03-4B2D-A099-D9FCB695BA1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "282A-Bit++", "282A-Bit++\282A-Bit++.csproj", "{AD499FF6-EDFE-4DC2-B2C3-DBBD699D05FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "282A-Bit++", "282A-Bit++\282A-Bit++.csproj", "{AD499FF6-EDFE-4DC2-B2C3-DBBD699D05FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "236A-Boy or Girl", "236A-Boy or Girl\236A-Boy or Girl.csproj", "{0CE09C4D-490F-4E19-B564-024B007E6E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "236A-Boy or Girl", "236A-Boy or Girl\236A-Boy or Girl.csproj", "{0CE09C4D-490F-4E19-B564-024B007E6E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50A-Domino Piling", "50A-Domino Piling\50A-Domino Piling.csproj", "{D02D620E-8A22-4847-AE3D-6CE400D29E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0CE09C4D-490F-4E19-B564-024B007E6E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE09C4D-490F-4E19-B564-024B007E6E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE09C4D-490F-4E19-B564-024B007E6E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02D620E-8A22-4847-AE3D-6CE400D29E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02D620E-8A22-4847-AE3D-6CE400D29E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02D620E-8A22-4847-AE3D-6CE400D29E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02D620E-8A22-4847-AE3D-6CE400D29E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

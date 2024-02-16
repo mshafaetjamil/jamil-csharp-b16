@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "50A-Domino Piling/1.0.0": {
+        "runtime": {
+          "50A-Domino Piling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "50A-Domino Piling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

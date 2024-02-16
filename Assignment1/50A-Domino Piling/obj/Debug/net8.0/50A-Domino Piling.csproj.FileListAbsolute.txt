@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\bin\Debug\net8.0\50A-Domino Piling.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\bin\Debug\net8.0\50A-Domino Piling.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\bin\Debug\net8.0\50A-Domino Piling.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\bin\Debug\net8.0\50A-Domino Piling.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\bin\Debug\net8.0\50A-Domino Piling.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\refint\50A-Domino Piling.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\50A-Domino Piling.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\50A-Domino Piling\obj\Debug\net8.0\ref\50A-Domino Piling.dll
