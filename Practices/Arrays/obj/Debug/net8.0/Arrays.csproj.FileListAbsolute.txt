@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\bin\Debug\net8.0\Arrays.exe
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\bin\Debug\net8.0\Arrays.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\bin\Debug\net8.0\Arrays.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\bin\Debug\net8.0\Arrays.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Arrays\obj\Debug\net8.0\ref\Arrays.dll
