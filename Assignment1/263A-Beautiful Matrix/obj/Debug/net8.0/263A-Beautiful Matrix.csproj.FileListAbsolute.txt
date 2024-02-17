@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\bin\Debug\net8.0\263A-Beautiful Matrix.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\bin\Debug\net8.0\263A-Beautiful Matrix.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\bin\Debug\net8.0\263A-Beautiful Matrix.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\bin\Debug\net8.0\263A-Beautiful Matrix.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\bin\Debug\net8.0\263A-Beautiful Matrix.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\refint\263A-Beautiful Matrix.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\263A-Beautiful Matrix.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\263A-Beautiful Matrix\obj\Debug\net8.0\ref\263A-Beautiful Matrix.dll

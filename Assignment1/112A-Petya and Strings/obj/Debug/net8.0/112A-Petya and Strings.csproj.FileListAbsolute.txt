@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\bin\Debug\net8.0\112A-Petya and Strings.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\bin\Debug\net8.0\112A-Petya and Strings.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\bin\Debug\net8.0\112A-Petya and Strings.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\bin\Debug\net8.0\112A-Petya and Strings.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\bin\Debug\net8.0\112A-Petya and Strings.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\refint\112A-Petya and Strings.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\112A-Petya and Strings.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\112A-Petya and Strings\obj\Debug\net8.0\ref\112A-Petya and Strings.dll

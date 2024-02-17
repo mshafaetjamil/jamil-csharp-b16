@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\bin\Debug\net8.0\339A-Helpful Maths.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\bin\Debug\net8.0\339A-Helpful Maths.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\bin\Debug\net8.0\339A-Helpful Maths.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\bin\Debug\net8.0\339A-Helpful Maths.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\bin\Debug\net8.0\339A-Helpful Maths.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\refint\339A-Helpful Maths.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\339A-Helpful Maths.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\339A-Helpful Maths\obj\Debug\net8.0\ref\339A-Helpful Maths.dll

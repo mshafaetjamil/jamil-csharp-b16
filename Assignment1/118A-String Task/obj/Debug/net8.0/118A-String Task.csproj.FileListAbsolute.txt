@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\bin\Debug\net8.0\118A-String Task.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\bin\Debug\net8.0\118A-String Task.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\bin\Debug\net8.0\118A-String Task.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\bin\Debug\net8.0\118A-String Task.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\bin\Debug\net8.0\118A-String Task.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\refint\118A-String Task.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\118A-String Task.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\118A-String Task\obj\Debug\net8.0\ref\118A-String Task.dll

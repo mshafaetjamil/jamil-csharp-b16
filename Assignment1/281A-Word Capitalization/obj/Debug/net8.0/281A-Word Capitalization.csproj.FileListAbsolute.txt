@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\bin\Debug\net8.0\281A-Word Capitalization.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\bin\Debug\net8.0\281A-Word Capitalization.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\bin\Debug\net8.0\281A-Word Capitalization.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\bin\Debug\net8.0\281A-Word Capitalization.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\bin\Debug\net8.0\281A-Word Capitalization.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\refint\281A-Word Capitalization.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\281A-Word Capitalization.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\281A-Word Capitalization\obj\Debug\net8.0\ref\281A-Word Capitalization.dll
