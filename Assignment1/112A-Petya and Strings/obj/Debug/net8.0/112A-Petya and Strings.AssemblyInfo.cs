@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("112A-Petya and Strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a544b5884f41e674460efdd98fd9afb17a3b571")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0649e93833bdcda7d0c60dd3faebbb3238e0474a")]
 [assembly: System.Reflection.AssemblyProductAttribute("112A-Petya and Strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("112A-Petya and Strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

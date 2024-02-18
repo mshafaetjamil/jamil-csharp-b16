@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\bin\Debug\net8.0\59A-Word.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\bin\Debug\net8.0\59A-Word.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\bin\Debug\net8.0\59A-Word.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\bin\Debug\net8.0\59A-Word.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\bin\Debug\net8.0\59A-Word.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\refint\59A-Word.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\59A-Word.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\59A-Word\obj\Debug\net8.0\ref\59A-Word.dll

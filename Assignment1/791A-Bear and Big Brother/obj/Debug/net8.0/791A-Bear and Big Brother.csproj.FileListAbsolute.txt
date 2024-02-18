@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\bin\Debug\net8.0\791A-Bear and Big Brother.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\bin\Debug\net8.0\791A-Bear and Big Brother.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\bin\Debug\net8.0\791A-Bear and Big Brother.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\bin\Debug\net8.0\791A-Bear and Big Brother.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\bin\Debug\net8.0\791A-Bear and Big Brother.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\refint\791A-Bear and Big Brother.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\791A-Bear and Big Brother.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\791A-Bear and Big Brother\obj\Debug\net8.0\ref\791A-Bear and Big Brother.dll

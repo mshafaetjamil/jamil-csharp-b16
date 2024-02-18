@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\bin\Debug\net8.0\96A-Football.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\bin\Debug\net8.0\96A-Football.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\bin\Debug\net8.0\96A-Football.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\bin\Debug\net8.0\96A-Football.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\bin\Debug\net8.0\96A-Football.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\refint\96A-Football.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\96A-Football.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\96A-Football\obj\Debug\net8.0\ref\96A-Football.dll

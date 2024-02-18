@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\bin\Debug\net8.0\266A-Stones on the Table.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\bin\Debug\net8.0\266A-Stones on the Table.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\bin\Debug\net8.0\266A-Stones on the Table.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\bin\Debug\net8.0\266A-Stones on the Table.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\bin\Debug\net8.0\266A-Stones on the Table.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\refint\266A-Stones on the Table.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\266A-Stones on the Table.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\266A-Stones on the Table\obj\Debug\net8.0\ref\266A-Stones on the Table.dll

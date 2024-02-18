@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\bin\Debug\net8.0\69A-Young Physicist.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\bin\Debug\net8.0\69A-Young Physicist.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\bin\Debug\net8.0\69A-Young Physicist.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\bin\Debug\net8.0\69A-Young Physicist.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\bin\Debug\net8.0\69A-Young Physicist.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\refint\69A-Young Physicist.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\69A-Young Physicist.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\69A-Young Physicist\obj\Debug\net8.0\ref\69A-Young Physicist.dll

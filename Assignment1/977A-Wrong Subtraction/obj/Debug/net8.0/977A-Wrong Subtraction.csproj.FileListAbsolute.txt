@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\bin\Debug\net8.0\977A-Wrong Subtraction.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\bin\Debug\net8.0\977A-Wrong Subtraction.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\bin\Debug\net8.0\977A-Wrong Subtraction.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\bin\Debug\net8.0\977A-Wrong Subtraction.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\bin\Debug\net8.0\977A-Wrong Subtraction.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\refint\977A-Wrong Subtraction.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\977A-Wrong Subtraction.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\977A-Wrong Subtraction\obj\Debug\net8.0\ref\977A-Wrong Subtraction.dll

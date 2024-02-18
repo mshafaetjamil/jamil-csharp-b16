@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "791A-Bear and Big Brother/1.0.0": {
+        "runtime": {
+          "791A-Bear and Big Brother.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "791A-Bear and Big Brother/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

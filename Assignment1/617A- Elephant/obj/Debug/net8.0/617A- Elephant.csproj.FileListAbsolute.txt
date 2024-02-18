@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\bin\Debug\net8.0\617A- Elephant.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\bin\Debug\net8.0\617A- Elephant.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\bin\Debug\net8.0\617A- Elephant.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\bin\Debug\net8.0\617A- Elephant.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\bin\Debug\net8.0\617A- Elephant.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\refint\617A- Elephant.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\617A- Elephant.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\617A- Elephant\obj\Debug\net8.0\ref\617A- Elephant.dll
