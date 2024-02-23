@@ -8,12 +8,6 @@ bool result = line.Contains(characterToCheck.ToString());
 Console.WriteLine();
 Console.WriteLine(result);
 
-//if (result)
-//{
-//    Console.WriteLine();
-//    Console.WriteLine(result);
-//}
-
 
 string line2 = Console.ReadLine();
 string stringToCheck = Console.ReadLine();
@@ -22,3 +16,6 @@ result2 = line2.Contains(stringToCheck);
 
 Console.WriteLine();
 Console.WriteLine(result2);
+
+
+
