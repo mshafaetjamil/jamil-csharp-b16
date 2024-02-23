@@ -1,0 +1,14 @@
+H:\C # Practices\C# Practices\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.exe
+H:\C # Practices\C# Practices\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.deps.json
+H:\C # Practices\C# Practices\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.runtimeconfig.json
+H:\C # Practices\C# Practices\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.dll
+H:\C # Practices\C# Practices\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.pdb
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.GeneratedMSBuildEditorConfig.editorconfig
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.AssemblyInfoInputs.cache
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.AssemblyInfo.cs
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.csproj.CoreCompileInputs.cache
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.dll
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\refint\OOP Practices.dll
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.pdb
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.genruntimeconfig.cache
+H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\ref\OOP Practices.dll

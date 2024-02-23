@@ -1,0 +1,14 @@
+H:\C # Practices\C# Practices\Practices\Basic Calculator\bin\Debug\net8.0\Basic Calculator.exe
+H:\C # Practices\C# Practices\Practices\Basic Calculator\bin\Debug\net8.0\Basic Calculator.deps.json
+H:\C # Practices\C# Practices\Practices\Basic Calculator\bin\Debug\net8.0\Basic Calculator.runtimeconfig.json
+H:\C # Practices\C# Practices\Practices\Basic Calculator\bin\Debug\net8.0\Basic Calculator.dll
+H:\C # Practices\C# Practices\Practices\Basic Calculator\bin\Debug\net8.0\Basic Calculator.pdb
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.AssemblyInfoInputs.cache
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.AssemblyInfo.cs
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.csproj.CoreCompileInputs.cache
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.dll
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\refint\Basic Calculator.dll
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.pdb
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\Basic Calculator.genruntimeconfig.cache
+H:\C # Practices\C# Practices\Practices\Basic Calculator\obj\Debug\net8.0\ref\Basic Calculator.dll

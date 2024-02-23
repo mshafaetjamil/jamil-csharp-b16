@@ -1,0 +1,14 @@
+H:\C # Practices\C# Practices\Practices\Reverse Order\bin\Debug\net8.0\Reverse Order.exe
+H:\C # Practices\C# Practices\Practices\Reverse Order\bin\Debug\net8.0\Reverse Order.deps.json
+H:\C # Practices\C# Practices\Practices\Reverse Order\bin\Debug\net8.0\Reverse Order.runtimeconfig.json
+H:\C # Practices\C# Practices\Practices\Reverse Order\bin\Debug\net8.0\Reverse Order.dll
+H:\C # Practices\C# Practices\Practices\Reverse Order\bin\Debug\net8.0\Reverse Order.pdb
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.AssemblyInfoInputs.cache
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.AssemblyInfo.cs
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.csproj.CoreCompileInputs.cache
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.dll
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\refint\Reverse Order.dll
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.pdb
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\Reverse Order.genruntimeconfig.cache
+H:\C # Practices\C# Practices\Practices\Reverse Order\obj\Debug\net8.0\ref\Reverse Order.dll

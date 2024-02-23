@@ -1,0 +1,14 @@
+H:\C # Practices\C# Practices\Practices\Store User Input\bin\Debug\net8.0\Store User Input.exe
+H:\C # Practices\C# Practices\Practices\Store User Input\bin\Debug\net8.0\Store User Input.deps.json
+H:\C # Practices\C# Practices\Practices\Store User Input\bin\Debug\net8.0\Store User Input.runtimeconfig.json
+H:\C # Practices\C# Practices\Practices\Store User Input\bin\Debug\net8.0\Store User Input.dll
+H:\C # Practices\C# Practices\Practices\Store User Input\bin\Debug\net8.0\Store User Input.pdb
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.GeneratedMSBuildEditorConfig.editorconfig
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.AssemblyInfoInputs.cache
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.AssemblyInfo.cs
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.csproj.CoreCompileInputs.cache
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.dll
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\refint\Store User Input.dll
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.pdb
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\Store User Input.genruntimeconfig.cache
+H:\C # Practices\C# Practices\Practices\Store User Input\obj\Debug\net8.0\ref\Store User Input.dll
