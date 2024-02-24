@@ -12,3 +12,18 @@ H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\refint\OO
 H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.pdb
 H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.genruntimeconfig.cache
 H:\C # Practices\C# Practices\Practices\OOP Practices\obj\Debug\net8.0\ref\OOP Practices.dll
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.exe
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.dll
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\bin\Debug\net8.0\OOP Practices.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.dll
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\refint\OOP Practices.dll
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\OOP Practices.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\OOP Practices\obj\Debug\net8.0\ref\OOP Practices.dll

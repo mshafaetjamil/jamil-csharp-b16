@@ -1,0 +1,35 @@
+OOP
+
+Encapsulation:
+ Access modifier are 4 types : public ,protected, Internal, private
+
+calsser samne public and internal use korte parbo.
+
+debug korar somoy methoder vitore dhukte f11 press korte hoy.
+
+classer baire by default internal hoy....vitore private.
+
+variables are field...
+
+properties: 
+object initializing er khetre contructor bebohar kori.
+constructor method ei...
+constructorer kono return type thake na...
+conventionally this.fhfhfh avoid korar jonno underscore bebohar korte pari... _capacity
+this. indicates its own class
+
+constructor just objject initializationer sathe somporkito.....
+
+constructor 2bar call kora jabo na
+
+constrctor chaining :this.capacity...
+
+Properties:
+propertio ek dhoroner method
+
+property capital letter die use korte hoy.... first class field e _ use kore small letter use korte pari but not good practice
+
+
+
+
+

@@ -12,3 +12,18 @@ H:\C # Practices\C# Practices\Practices\String and Char Methods\obj\Debug\net8.0
 H:\C # Practices\C# Practices\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.pdb
 H:\C # Practices\C# Practices\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.genruntimeconfig.cache
 H:\C # Practices\C# Practices\Practices\String and Char Methods\obj\Debug\net8.0\ref\String and Char Methods.dll
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\bin\Debug\net8.0\String and Char Methods.exe
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\bin\Debug\net8.0\String and Char Methods.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\bin\Debug\net8.0\String and Char Methods.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\bin\Debug\net8.0\String and Char Methods.dll
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\bin\Debug\net8.0\String and Char Methods.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.dll
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\refint\String and Char Methods.dll
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\String and Char Methods.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\String and Char Methods\obj\Debug\net8.0\ref\String and Char Methods.dll

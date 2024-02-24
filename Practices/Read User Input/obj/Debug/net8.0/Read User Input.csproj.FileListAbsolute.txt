@@ -12,3 +12,18 @@ H:\C # Practices\C# Practices\Practices\Read User Input\obj\Debug\net8.0\refint\
 H:\C # Practices\C# Practices\Practices\Read User Input\obj\Debug\net8.0\Read User Input.pdb
 H:\C # Practices\C# Practices\Practices\Read User Input\obj\Debug\net8.0\Read User Input.genruntimeconfig.cache
 H:\C # Practices\C# Practices\Practices\Read User Input\obj\Debug\net8.0\ref\Read User Input.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\bin\Debug\net8.0\Read User Input.exe
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\bin\Debug\net8.0\Read User Input.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\bin\Debug\net8.0\Read User Input.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\bin\Debug\net8.0\Read User Input.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\bin\Debug\net8.0\Read User Input.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\refint\Read User Input.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\Read User Input.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Read User Input\obj\Debug\net8.0\ref\Read User Input.dll
