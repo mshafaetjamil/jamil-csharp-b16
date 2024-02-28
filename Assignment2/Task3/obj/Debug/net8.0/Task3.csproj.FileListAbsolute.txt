@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\bin\Debug\net8.0\Task3.exe
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\bin\Debug\net8.0\Task3.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\bin\Debug\net8.0\Task3.dll
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\bin\Debug\net8.0\Task3.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.dll
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\refint\Task3.dll
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task3\obj\Debug\net8.0\ref\Task3.dll

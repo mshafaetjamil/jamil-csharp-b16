@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task3
+namespace Task3;
+
+public interface IShape
 {
-    public interface IShape
-    {
-        double CalculateArea();
-        double CalculatePerimeter();
-    }
+    double CalculateArea();
+    double CalculatePerimeter();
 }
