@@ -21,4 +21,3 @@ Console.WriteLine();
 
 Console.WriteLine($"Dot Product:{v1} * {v2} = {v1 *v2}");
 Console.WriteLine();
-

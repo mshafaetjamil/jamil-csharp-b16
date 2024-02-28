@@ -40,6 +40,7 @@ public struct Vector
     {
         return (v1.X * v2.X) + (v1.Y * v2.Y);
     }
+
     public override string ToString()
     {
             return $"({X},{Y})";

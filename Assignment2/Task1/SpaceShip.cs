@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task1
-{
-    public abstract class SpaceShip
-    {
-        public double Speed { get; set; }
-        public abstract object CloneShip();
+namespace Task1;
 
-        public SpaceShip(double speed)
-        {
-            Speed = speed;
-        }
-    }
+public abstract class SpaceShip<GSpeed,GReturn> where GReturn : SpaceShip <GSpeed, GReturn>
+{
+    public GSpeed Speed { get; set; }
+    public abstract GReturn CloneShip();
+
+    public SpaceShip(GSpeed speed) => Speed = speed;
 }
