@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\bin\Debug\net8.0\Task2.exe
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\bin\Debug\net8.0\Task2.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\bin\Debug\net8.0\Task2.dll
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\bin\Debug\net8.0\Task2.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.dll
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\refint\Task2.dll
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment2\Task2\obj\Debug\net8.0\ref\Task2.dll
