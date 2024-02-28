@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\bin\Debug\net8.0\Lamda Method.exe
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\bin\Debug\net8.0\Lamda Method.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\bin\Debug\net8.0\Lamda Method.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\bin\Debug\net8.0\Lamda Method.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\bin\Debug\net8.0\Lamda Method.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\refint\Lamda Method.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\Lamda Method.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Lamda Method\obj\Debug\net8.0\ref\Lamda Method.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Practices
 {
-    public class Inheritance
+    public class ABCCar
     {
         public double speed;
     }

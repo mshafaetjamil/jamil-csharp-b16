@@ -29,7 +29,18 @@ propertio ek dhoroner method
 
 property capital letter die use korte hoy.... first class field e _ use kore small letter use korte pari but not good practice
 
+max time property use better....internal khetre field varible only in case...
+
+public kono kisu initializer jonno sobsomoy property use kora & condioton na thakle auto property kora...suggested.
+field use private inside a class when actual need
+
+namespace e thaka 2ta class ekjon arekjon ke chene...
+
+namespaces er name hoy companyr name,projecter name,module...ex: devskill.hotel management.accounting
 
 
+Lamda method is a one liner......one benefit is only simplify code....
 
+static classe kono instance banate hoy na
 
+Jodi classer vitore shob static field and properties hoy taile class ke static banano jabe otherwise not..

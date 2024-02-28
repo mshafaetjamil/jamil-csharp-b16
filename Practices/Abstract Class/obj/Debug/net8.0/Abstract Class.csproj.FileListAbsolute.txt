@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\bin\Debug\net8.0\Abstract Class.exe
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\bin\Debug\net8.0\Abstract Class.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\bin\Debug\net8.0\Abstract Class.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\bin\Debug\net8.0\Abstract Class.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\bin\Debug\net8.0\Abstract Class.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\refint\Abstract Class.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\Abstract Class.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Abstract Class\obj\Debug\net8.0\ref\Abstract Class.dll

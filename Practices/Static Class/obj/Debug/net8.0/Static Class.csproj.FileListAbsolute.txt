@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\bin\Debug\net8.0\Static Class.exe
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\bin\Debug\net8.0\Static Class.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\bin\Debug\net8.0\Static Class.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\bin\Debug\net8.0\Static Class.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\bin\Debug\net8.0\Static Class.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\refint\Static Class.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\Static Class.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Static Class\obj\Debug\net8.0\ref\Static Class.dll

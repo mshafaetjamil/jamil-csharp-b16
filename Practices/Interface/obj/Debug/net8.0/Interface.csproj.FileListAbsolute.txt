@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\bin\Debug\net8.0\Interface.exe
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\bin\Debug\net8.0\Interface.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\bin\Debug\net8.0\Interface.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\bin\Debug\net8.0\Interface.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\refint\Interface.dll
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\Interface\obj\Debug\net8.0\ref\Interface.dll
