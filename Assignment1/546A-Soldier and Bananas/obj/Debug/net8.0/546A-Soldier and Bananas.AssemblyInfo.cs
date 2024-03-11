@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("546A-Soldier and Bananas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0649e93833bdcda7d0c60dd3faebbb3238e0474a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a004f8a59137f272b53b342de4d492cfd1894c99")]
 [assembly: System.Reflection.AssemblyProductAttribute("546A-Soldier and Bananas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("546A-Soldier and Bananas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
