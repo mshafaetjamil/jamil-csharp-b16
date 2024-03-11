@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrgWWSFldGBgVaXGy1OHQw6nAufsgTL1waiVihzdlPv7mBIAWgWixXwCUt6sAoREiLR2/69l5i1RtOXxQaB1IA==",
+  "success": true,
+  "projectFilePath": "H:\\DevSCS\\jamil-csharp-b16\\Exam2\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jamil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\jamil\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\jamil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\jamil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
