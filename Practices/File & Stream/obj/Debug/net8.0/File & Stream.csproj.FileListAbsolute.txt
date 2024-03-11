@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\bin\Debug\net8.0\File & Stream.exe
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\bin\Debug\net8.0\File & Stream.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\bin\Debug\net8.0\File & Stream.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\bin\Debug\net8.0\File & Stream.dll
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\bin\Debug\net8.0\File & Stream.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.dll
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\refint\File & Stream.dll
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\File & Stream.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\File & Stream\obj\Debug\net8.0\ref\File & Stream.dll

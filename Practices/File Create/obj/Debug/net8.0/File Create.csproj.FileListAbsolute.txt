@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\bin\Debug\net8.0\File Create.exe
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\bin\Debug\net8.0\File Create.deps.json
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\bin\Debug\net8.0\File Create.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\bin\Debug\net8.0\File Create.dll
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\bin\Debug\net8.0\File Create.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.dll
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\refint\File Create.dll
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.pdb
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\File Create.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Practices\File Create\obj\Debug\net8.0\ref\File Create.dll
