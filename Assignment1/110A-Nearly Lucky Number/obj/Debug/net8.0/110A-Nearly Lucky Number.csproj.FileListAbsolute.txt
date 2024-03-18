@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\bin\Debug\net8.0\110A-Nearly Lucky Number.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\bin\Debug\net8.0\110A-Nearly Lucky Number.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\bin\Debug\net8.0\110A-Nearly Lucky Number.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\bin\Debug\net8.0\110A-Nearly Lucky Number.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\bin\Debug\net8.0\110A-Nearly Lucky Number.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\refint\110A-Nearly Lucky Number.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\110A-Nearly Lucky Number.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\110A-Nearly Lucky Number\obj\Debug\net8.0\ref\110A-Nearly Lucky Number.dll

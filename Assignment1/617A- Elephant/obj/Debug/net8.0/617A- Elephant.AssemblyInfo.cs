@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("617A- Elephant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a004f8a59137f272b53b342de4d492cfd1894c99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e586a83fb68abca818f0bf1573650a827535ff3")]
 [assembly: System.Reflection.AssemblyProductAttribute("617A- Elephant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("617A- Elephant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

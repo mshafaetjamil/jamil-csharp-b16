@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\bin\Debug\net8.0\734A-Anton and Danik.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\bin\Debug\net8.0\734A-Anton and Danik.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\bin\Debug\net8.0\734A-Anton and Danik.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\bin\Debug\net8.0\734A-Anton and Danik.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\bin\Debug\net8.0\734A-Anton and Danik.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\refint\734A-Anton and Danik.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\734A-Anton and Danik.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\734A-Anton and Danik\obj\Debug\net8.0\ref\734A-Anton and Danik.dll
