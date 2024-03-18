@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\bin\Debug\net8.0\(28)266B-Queue at the School.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\bin\Debug\net8.0\(28)266B-Queue at the School.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\bin\Debug\net8.0\(28)266B-Queue at the School.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\bin\Debug\net8.0\(28)266B-Queue at the School.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\bin\Debug\net8.0\(28)266B-Queue at the School.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\refint\(28)266B-Queue at the School.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\(28)266B-Queue at the School.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(28)266B-Queue at the School\obj\Debug\net8.0\ref\(28)266B-Queue at the School.dll

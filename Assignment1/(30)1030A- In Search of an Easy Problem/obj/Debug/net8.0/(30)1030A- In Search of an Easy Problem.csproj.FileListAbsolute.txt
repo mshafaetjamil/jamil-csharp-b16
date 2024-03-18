@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\bin\Debug\net8.0\(30)1030A- In Search of an Easy Problem.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\bin\Debug\net8.0\(30)1030A- In Search of an Easy Problem.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\bin\Debug\net8.0\(30)1030A- In Search of an Easy Problem.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\bin\Debug\net8.0\(30)1030A- In Search of an Easy Problem.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\bin\Debug\net8.0\(30)1030A- In Search of an Easy Problem.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\refint\(30)1030A- In Search of an Easy Problem.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\(30)1030A- In Search of an Easy Problem.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(30)1030A- In Search of an Easy Problem\obj\Debug\net8.0\ref\(30)1030A- In Search of an Easy Problem.dll

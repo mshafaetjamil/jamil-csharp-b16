@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\bin\Debug\net8.0\(2) 58A-Chatroom.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\bin\Debug\net8.0\(2) 58A-Chatroom.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\bin\Debug\net8.0\(2) 58A-Chatroom.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\bin\Debug\net8.0\(2) 58A-Chatroom.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\bin\Debug\net8.0\(2) 58A-Chatroom.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\refint\(2) 58A-Chatroom.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\(2) 58A-Chatroom.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\(2) 58A-Chatroom\obj\Debug\net8.0\ref\(2) 58A-Chatroom.dll
