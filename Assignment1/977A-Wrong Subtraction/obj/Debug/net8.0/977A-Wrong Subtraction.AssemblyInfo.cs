@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("977A-Wrong Subtraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e586a83fb68abca818f0bf1573650a827535ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ba3880ab1ac7f934b518516fb4e6a73e784f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("977A-Wrong Subtraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("977A-Wrong Subtraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

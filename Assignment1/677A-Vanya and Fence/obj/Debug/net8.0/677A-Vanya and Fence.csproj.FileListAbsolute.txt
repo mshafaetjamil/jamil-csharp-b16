@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\bin\Debug\net8.0\677A-Vanya and Fence.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\bin\Debug\net8.0\677A-Vanya and Fence.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\bin\Debug\net8.0\677A-Vanya and Fence.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\bin\Debug\net8.0\677A-Vanya and Fence.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\bin\Debug\net8.0\677A-Vanya and Fence.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\refint\677A-Vanya and Fence.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\677A-Vanya and Fence.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\677A-Vanya and Fence\obj\Debug\net8.0\ref\677A-Vanya and Fence.dll

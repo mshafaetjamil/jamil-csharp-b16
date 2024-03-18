@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\bin\Debug\net8.0\41A- Translation.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\bin\Debug\net8.0\41A- Translation.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\bin\Debug\net8.0\41A- Translation.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\bin\Debug\net8.0\41A- Translation.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\bin\Debug\net8.0\41A- Translation.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\refint\41A- Translation.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\41A- Translation.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\41A- Translation\obj\Debug\net8.0\ref\41A- Translation.dll

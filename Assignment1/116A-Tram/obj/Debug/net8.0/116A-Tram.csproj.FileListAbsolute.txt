@@ -1,0 +1,15 @@
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\bin\Debug\net8.0\116A-Tram.exe
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\bin\Debug\net8.0\116A-Tram.deps.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\bin\Debug\net8.0\116A-Tram.runtimeconfig.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\bin\Debug\net8.0\116A-Tram.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\bin\Debug\net8.0\116A-Tram.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.GeneratedMSBuildEditorConfig.editorconfig
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.AssemblyInfoInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.AssemblyInfo.cs
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.csproj.CoreCompileInputs.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.sourcelink.json
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\refint\116A-Tram.dll
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.pdb
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\116A-Tram.genruntimeconfig.cache
+H:\DevSCS\jamil-csharp-b16\Assignment1\116A-Tram\obj\Debug\net8.0\ref\116A-Tram.dll
